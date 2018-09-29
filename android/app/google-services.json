@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "888661048223",
+    "firebase_url": "https://projetomega-10a99.firebaseio.com",
+    "project_id": "projetomega-10a99",
+    "storage_bucket": "projetomega-10a99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888661048223:android:e12aecd44a8364ca",
+        "android_client_info": {
+          "package_name": "com.coelho.projetomega"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888661048223-d4qvdmje563550d9p5aup0vl1qjn26l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrF8i8rfkQnKSDHMAfADZrT_tdou6W1gk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
